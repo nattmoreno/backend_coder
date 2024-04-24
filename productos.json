@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "title": "Cien años de soledad",
+        "description": "Una de las obras maestras de la literatura latinoamericana, escrita por Gabriel García Márquez.",
+        "price": 20.5,
+        "thumbnail": "https://example.com/cien-anios-de-soledad.jpg",
+        "code": "CAS001"
+    },
+    {
+        "id": 2,
+        "title": "Don Quijote de la Mancha",
+        "description": "La obra cumbre de la literatura española, escrita por Miguel de Cervantes.",
+        "price": 18.75,
+        "thumbnail": "https://example.com/don-quijote.jpg",
+        "code": "DQM002"
+    },
+    {
+        "id": 3,
+        "title": "El principito",
+        "description": "Un relato poético y filosófico, escrito por Antoine de Saint-Exupéry.",
+        "price": 15.2,
+        "thumbnail": "https://example.com/el-principito.jpg",
+        "code": "EPR003"
+    },
+    {
+        "id": 4,
+        "title": "Harry Potter y la piedra filosofal",
+        "description": "El primer libro de la saga de Harry Potter, escrito por J.K. Rowling.",
+        "price": 22.1,
+        "thumbnail": "https://example.com/harry-potter.jpg",
+        "code": "HPF004"
+    },
+    {
+        "id": 5,
+        "title": "El alquimista",
+        "description": "Una novela que reflexiona sobre el sentido de la vida, escrita por Paulo Coelho.",
+        "price": 12.45,
+        "thumbnail": "https://example.com/el-alquimista.jpg",
+        "code": "EAL005"
+    },
+    {
+        "id": 6,
+        "title": "Moby Dick",
+        "description": "La historia de la obsesión del capitán Ahab por vengarse de Moby Dick, la ballena blanca que le arrancó una pierna.",
+        "price": 19.3,
+        "thumbnail": "https://example.com/moby-dick.jpg",
+        "code": "MDI006"
+    },
+    {
+        "id": 7,
+        "title": "La sombra del viento",
+        "description": "Una novela de misterio y suspense, escrita por Carlos Ruiz Zafón.",
+        "price": 16.85,
+        "thumbnail": "https://example.com/la-sombra-del-viento.jpg",
+        "code": "LSV007"
+    },
+    {
+        "id": 8,
+        "title": "1984",
+        "description": "Una novela distópica escrita por George Orwell, que describe un futuro totalitario y vigilado por un gran hermano.",
+        "price": 14.9,
+        "thumbnail": "https://example.com/1984.jpg",
+        "code": "UNO008"
+    },
+    {
+        "id": 9,
+        "title": "Orgullo y prejuicio",
+        "description": "Una novela romántica escrita por Jane Austen, que critica la sociedad del siglo XIX en Inglaterra.",
+        "price": 17.25,
+        "thumbnail": "https://example.com/orgullo-y-prejuicio.jpg",
+        "code": "OYP009"
+    },
+    {
+        "id": 10,
+        "title": "El retrato de Dorian Gray",
+        "description": "Una novela escrita por Oscar Wilde, que reflexiona sobre la moralidad y la belleza.",
+        "price": 18.6,
+        "thumbnail": "https://example.com/el-retrato-de-dorian-gray.jpg",
+        "code": "ERD010"
+    }
+]

@@ -1,0 +1,15 @@
+{
+    "name": "entregable-03-servidor-con-express",
+    "version": "1.0.0",
+    "description": "Tercer entregable del curso de backend",
+    "main": "app.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Natalia Moreno",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.19.2"
+    }
+}
